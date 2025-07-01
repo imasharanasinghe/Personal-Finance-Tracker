@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ImiliPocket</string>
+    <string name="welcome_to_imilipocket">Welcome to ImiliPocket!</string>
+    <string name="title">Title</string>
+    <string name="amount">Amount</string>
+    <string name="select_date">Select Date</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="add_transaction">Add Transaction</string>
+</resources>
